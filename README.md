@@ -1,13 +1,13 @@
-## 📊Sales-Performance-Customer-Analytics-Dashboard
+# 📊Sales-Performance-Customer-Analytics-Dashboard
 
 
-# 🧩 Project Overview
+## 🧩 Project Overview
 This project is an **interactive Sales Dashboard** built in **Power BI** to analyze sales performance, customer behavior, payments, product inventory, and employee performance.  
 It provides a comprehensive view of business operations and helps decision-makers identify trends, opportunities, and KPIs to make data-driven decisions.
 
 ---
 
-# 🎯 Objectives
+## 🎯 Objectives
 - Analyze overall **sales performance** across customers, products, and time.
 - Track **profitability** and identify top-performing products and sales representatives.
 - Monitor **customer payments** and **credit utilization** for better financial insights.
@@ -16,7 +16,7 @@ It provides a comprehensive view of business operations and helps decision-maker
 
 ---
 
-# 🗂️ Dataset Description
+## 🗂️ Dataset Description
 The dashboard uses **8 interconnected tables**:
 
 | Table | Description | Key Columns / Measures |
@@ -32,7 +32,7 @@ The dashboard uses **8 interconnected tables**:
 
 ---
 
-# ⚙️ Data Modeling
+## ⚙️ Data Modeling
 - Designed a **Star Schema** model connecting fact and dimension tables.
 - Created **relationships** using primary and foreign keys (CustomerNumber, ProductCode, OrderNumber, OfficeCode).
 - Built several **DAX measures** such as:
@@ -49,7 +49,7 @@ The dashboard uses **8 interconnected tables**:
 
 ---
 
-# 📈 Dashboard Pages
+## 📈 Dashboard Pages
 1. **Executive Summary Dashboard** – Key KPIs: Total Sales, Total Profit, Total Orders, Purchase Cost, Profit Margin %.  
 2. **Sales Performance** – Monthly Sales & Profit Trend, product, and sales rep performance.  
 3. **Customers & Payments Insights** – Customer segmentation and payments.  
@@ -58,7 +58,7 @@ The dashboard uses **8 interconnected tables**:
 
 ---
 
-# 🧰 Key Features
+## 🧰 Key Features
 - Fully **interactive Power BI report** with slicers and filters.  
 - **3 Tooltips** for contextual pop-up insights.  
 - **2 Bookmarks** for quick navigation between report views.  
@@ -67,21 +67,22 @@ The dashboard uses **8 interconnected tables**:
 
 ---
 
-# 🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 
-![Executive Summary](images/executive_summary.png)
-![Sales Performance](images/sales_performance.png)
-![Customer Insights](images/customer_insights.png)
-![Product Inventory](images/product_inventory.png)
+<img width="909" height="514" alt="Executive Summary Dashboard" src="https://github.com/user-attachments/assets/c68b56a9-495e-4a54-9328-1e76899b05c7" />
+<img width="907" height="513" alt="Sales Performance" src="https://github.com/user-attachments/assets/09bef824-3748-4e9f-b125-4d18487bb86d" />
+<img width="908" height="512" alt="Customer   Payment Insights" src="https://github.com/user-attachments/assets/3f0901e0-49a5-4258-9f65-a6ce7d74347f" />
+<img width="906" height="510" alt="Product   Inventory Analysis" src="https://github.com/user-attachments/assets/d87af6e2-1e65-44f5-af27-b0def84d62ee" />
+<img width="906" height="512" alt="Employees   Office Performance" src="https://github.com/user-attachments/assets/c240a261-af6f-4a58-9efd-7f48f8de916c" />
 
-For a detailed view, download the full report PDF 👉 
+For a detailed view, download the full report PDF 👉 <a href= "https://github.com/Kashaf-naz/Sales-Performance-Customer-Analytics-Dashboard/raw/main/Sales%20Performance%20%26%20Customer%20Analytics%20Dashboard.pdf">Dashboard.pdf</a>
 
 ---
 
 # 📁 Project File
 Download and explore the full Power BI file:
 
-👉 [Sales_Dashboard.pbix](Sales_Dashboard.pbix)  
+👉 <a href= "https://github.com/Kashaf-naz/Sales-Performance-Customer-Analytics-Dashboard/raw/main/Sales%20Performance%20%26%20Customer%20Analytics%20Dashboard.pbix">Dashboard.pbix</a>
 *(Open in **Power BI Desktop** to explore data modeling, DAX formulas, and interactive visuals.)*
 
 ---
@@ -94,26 +95,20 @@ Download and explore the full Power BI file:
 
 ---
 
-## 🚀 Future Enhancements
-- Add **dynamic date filters** and forecasting visuals.  
-- Connect with a **live SQL or API data source** for real-time updates.  
-- Implement **drill-through pages** for deeper regional or product insights.
-
----
-
 ## 🛠️ Tools & Technologies
 - **Microsoft Power BI**
 - **DAX (Data Analysis Expressions)**
 - **Power Query**
-- **Excel / CSV (Data Source)**
+- **CSV (Data Source)**
 - **Data Modeling (Star Schema)**
 
 ---
 
 ## 👩‍💻 Author
-**[Your Name]**  
-📧 [your.email@example.com]  
-💼 [LinkedIn Profile or Portfolio Link]
+**Kashaf Naz**  
+- 📧 kashafnaz225@gmail.com 
+- 💼 www.linkedin.com/in/kashaf-naz
+
 
 ---
 
